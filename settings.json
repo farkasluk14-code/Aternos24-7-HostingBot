@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ShadowStonesmp.aternos.me
-",
+    "ip":"ShadowStonesmp.aternos.me",
+
     "port":11152,
     "version": "",
     "try-creative": false
